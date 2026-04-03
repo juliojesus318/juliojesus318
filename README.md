@@ -21,14 +21,17 @@
 
 ###
 
-<h5 align="center">🧠 ⚙ Oi, eu sou o Julio<br>📚 📝 Estou cursando Análise e Desenvolvimento de Sistemas (ADS)<br>🎧 🕹️ Meus hobbies envolvem Games: Soulslike, Livros: literatura e Músicas<br><br>💻 Meus interesses como Dev são:<br>☕ 🐍 Me aprimorar nas linguagens que já estou aprendendo<br>🔍 Realizar mais projetos pessoais.<br><br>🐧</h5>
+<div align="center">
+  <a href="https://github-readme-streak-stats-eight.vercel.app">
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=juliojesus318&theme=dracula" height="150" alt="gráfico de sequência" />
+  </a>
+</div>
 
 ###
 
 <div align="center">
-  <a href="https://github-readme-streak-stats-eight.vercel.app">
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=juliojesus318&theme=dracula" height="150" alt="streak graph" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=juliojesus318&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliojesus318&layout=compact&langs_count=5&theme=dracula" height="150" alt="linguagens mais usadas" />
 </div>
 
 ###
